@@ -69,3 +69,22 @@ public class RoundRobin {
     }
     
 }
+
+/*
+Give number of Processes: 
+3
+Give the burst time for process 1:
+10
+Give the burst time for process 2:
+5
+Give the burst time for process 3:
+8
+Input the value for time quantum: 
+2
+Processes  Burst time  Waiting time  Turn around time
+ 1		10	 13		 23
+ 2		5	 10		 15
+ 3		8	 13		 21
+Average waiting time = 12.0
+Average turn around time = 19.666666
+*/
