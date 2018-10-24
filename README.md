@@ -1,6 +1,6 @@
 # OperatingSystem
-Name- Udit Sen
-Enrollment - 0827CS161233
+Name- vinay yadav
+Enrollment - 0827CS161242
 
 1. FCFS
 2. FCFS Arrival
